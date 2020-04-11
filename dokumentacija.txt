@@ -39,4 +39,6 @@ GitHub proveruva dali moze da se napravi avtomatski merge, toa znaci deka branch
 Vo mojot slucaj nemase konflikti pomeju branchovite.
 
 That's all folks ;)
+
+GitHub repo: https://github.com/brsjak/SI_lab1_gr2_151145
 Filip Brsjak - 151145
