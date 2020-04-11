@@ -1,3 +1,5 @@
+#Dokumentacija za prva lab vezba po SI 2019/2020
+
 Evaluacija na SSH agent - eval `ssh-agent` Dobienoto agent id se dodava 
 vo listata na known hosts so komandata ssh-add ~/.ssh/id_rsa
 
